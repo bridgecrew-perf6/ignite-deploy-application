@@ -9,11 +9,8 @@
 </p>
 
 <h3 align="center">
-  Desafio 10 - Trilha ReactJS
+  Desafio - Deploy IgNews
 </h2>
-<p align="center">
-	Resolução do Desafio "Deploy do Ignews"
-</p>
 
 ## Sobre o desafio
 
@@ -25,7 +22,7 @@ Nesse desafio, você deverá fazer o deploy de uma das aplicações mais legai
 
 ## Endereço da aplicação
 
-`https://desafio-deploy-aplicacao.vercel.app/`
+`https://murilojssilva-ignite-deploy-application.netlify.app/`
 
 ## Status do desafio
 
